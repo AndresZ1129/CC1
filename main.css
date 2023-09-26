@@ -1,1 +1,4 @@
-
+body {
+background-image: url("suburb.png");
+  position: fixed;
+}
