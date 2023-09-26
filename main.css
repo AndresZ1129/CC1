@@ -1,5 +1,10 @@
-body {
-background-image: url("suburb.png");
-  background-size: cover;
-  position: fixed;
-}
+<html>
+<head>
+  <title>Coding Challenge #1</title>
+  <link rel="stylesheet": href="main.css">
+</head>
+<body>
+  <img class="drone"; src="drone.gif">
+<img class="walk"; src="walk.gif"
+</body>
+</html>
