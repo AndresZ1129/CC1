@@ -1,10 +1,19 @@
-<html>
-<head>
-  <title>Coding Challenge #1</title>
-  <link rel="stylesheet": href="main.css">
-</head>
-<body>
-  <img class="drone"; src="drone.gif">
-<img class="walk"; src="walk.gif"
-</body>
-</html>
+body {
+    background-image: url("suburb.png");
+      position: fixed;
+    }
+    .drone{
+ width: 100px;
+ height:  100px;
+ position: absolute;
+ left:780px;
+ top: 20px;
+
+    }    
+    .walk{
+        
+        width:270px;
+        position: absolute;
+        left:1000px;
+        top: 170px;
+            }
